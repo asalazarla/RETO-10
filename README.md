@@ -19,7 +19,7 @@ promedio = suma / len(arreglo_reales)
 print(f"El promedio del arreglo es: {promedio}")
 ```
 
-**2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.**
+**2. Desarrollar un algoritmo que calcule el [producto punto](https://www.cuemath.com/algebra/dot-product/)**
 
 ```python
 # Solicitar el ingreso los elementos del primer arreglo
@@ -58,7 +58,7 @@ arreglo_final = no_ceros + [0] * cantidad_ceros
 print(f"El arreglo con los ceros al final es: {arreglo_final}")
 ```
 
-**4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).**
+**4. Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).
 
 Para este numeral no se realizó ningún code, ya que su principal objetivo es entender algoritmos de sorting que son métodos para organizar los elementos de una lista en un orden específico, como ascendente o descendente. 
 Además también se pide la comprensión de bubble-sort que se caracteriza por ser un algoritmo sencillo que compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto. Este proceso se repite hasta que la lista está ordenada. (Describí brevemente lo que entendí) 
