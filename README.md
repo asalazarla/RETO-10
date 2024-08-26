@@ -1,6 +1,8 @@
 # RETO-10
 
 
+**1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.**
+
 ```python
 # Solicitar el ingreso de los elementos del arreglo
 # Convertimos la entrada en una lista de números flotantes (reales)
@@ -16,7 +18,7 @@ promedio = suma / len(arreglo_reales)
 print(f"El promedio del arreglo es: {promedio}")
 ```
 
-
+**2. Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.**
 
 ```python
 # Solicitar el ingreso los elementos del primer arreglo
@@ -36,7 +38,7 @@ else:
     print(f"El producto punto de los arreglos es: {producto_punto}")
 ```
 
-
+**3. Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.**
 
 ```python
 # Solicitar el ingreso de los elementos del arreglo
@@ -55,6 +57,7 @@ arreglo_final = no_ceros + [0] * cantidad_ceros
 print(f"El arreglo con los ceros al final es: {arreglo_final}")
 ```
 
+**4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).**
 
 
 
