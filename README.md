@@ -1,5 +1,6 @@
 # RETO-10
 
+***Este repositorio contiene la solución y desarrollo a los problemas del reto 10***
 
 **1. Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.**
 
@@ -58,10 +59,6 @@ print(f"El arreglo con los ceros al final es: {arreglo_final}")
 ```
 
 **4. Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).**
-
-
-
-
-```python
-```
+Para este numeral no se realizó ningún code, ya que su principal objetivo es entender algoritmos de sorting que son métodos para organizar los elementos de una lista en un orden específico, como ascendente o descendente. 
+Además también se pide la comprensión de bubble-sort que se caracteriza por ser un algoritmo sencillo que compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto. Este proceso se repite hasta que la lista está ordenada. (Describí brevemente lo que entendí) 
 
